@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
- <b>Visitor Count</b>
+ <b>Visitor Count</b></br>
   <img src="https://profile-counter.glitch.me/jeorgedonato/count.svg">
 </p>
