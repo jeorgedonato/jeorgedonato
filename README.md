@@ -8,4 +8,6 @@ jeorgedonato/jeorgedonato is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-  ![Visitor Count](https://profile-counter.glitch.me/jeorgedonato/count.svg)
+<p align="center">
+  <img width="460" height="300" src="https://profile-counter.glitch.me/jeorgedonato/count.svg">
+</p>
