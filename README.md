@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img width="460" height="300" src="https://profile-counter.glitch.me/jeorgedonato/count.svg">
+  <img src="https://profile-counter.glitch.me/jeorgedonato/count.svg">
 </p>
